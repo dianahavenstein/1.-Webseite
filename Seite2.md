@@ -1,6 +1,7 @@
 ## Auf dieser Seite seht ihr ein tolles Bild.
 
 Passend zur herbstlichen Jahreszeit.
-![Alt-Text](/Users/dee/Desktop/Studium ÖV/M25 Digitalisierung in der Verwaltung/Digi_Zellhöfer_2ECTS/Bild-Beeren.png)
 
-Zurück zur [Startseite] (Startseite)
+![Alt-Text](https://cdn.pixabay.com/photo/2020/11/24/12/23/flowering-dogwood-5772385_1280.jpg)
+
+Zurück zur [Startseite](Startseite)
