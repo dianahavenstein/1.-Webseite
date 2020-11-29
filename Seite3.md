@@ -1,6 +1,6 @@
 ## Dies ist meine Seite 3.
 
-bye bye ＼(-_- )
+bye bye :wave:
 
 ___
 Zurück zur [Startseite](README)
