@@ -6,7 +6,7 @@ Herzlich willkommen auf meiner ersten GitHub Page.
 
 ٩( ᐛ )و
 
-___. 
+___  
 
-Hier geht es [zur Seite 2](Seite2). 
-Hier geht es [zur Seite 3](Seite3). 
+Hier geht es [zur Seite 2](Seite2) 
+Hier geht es [zur Seite 3](Seite3) 
