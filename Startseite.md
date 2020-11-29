@@ -4,7 +4,7 @@ Herzlich willkommen auf meiner ersten GitHub Page.
 
 ## Yeah ...
 
-\(סּںסּَ` )/ۜ
+٩( ᐛ )و
 
 ___
 Hier geht es [zur Seite 2](Seite2)
