@@ -1,6 +1,6 @@
 # Hello World.
 
-Herzlich willkommen auf meiner ersten GitHub Page.
+Herzlich Willkommen auf meiner ersten GitHub Page.
 
 ## Yeah ...
 
